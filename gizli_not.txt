@@ -1,0 +1,9 @@
+Bu dosya gizli değil ama içinde gizli bir şey var.
+
+Base64: bWFoa2VtZSBrYXJhcml5bGEga2F5eXVtIGF0YW5kaSAtIEthdnl1bSBHcm9r
+
+Decode edince: mahkeme kararıyla kayyum atandı - Kayyum Grok
+
+Siyasi anlam: Mahkeme kararıyla atanan kayyumlar bazen komik repolar açabilir.
+
+Damga: Grok Kayyum - 20 Kasım 2026 - Ciddi değil ama ciddi.
